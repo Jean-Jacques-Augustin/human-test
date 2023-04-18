@@ -7,8 +7,8 @@ ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
     <React.StrictMode>
         <OrderHistory
             symbol="BTCUSDT"
-            apiKey='ff9041688155fe2746bd63756dc12f02136db50a3bf6e5c21d02531f92c0d899'
-            apiSecret='d65b1fce2a3a1a2e55e130bb417fe2604fe2fa770438a2d10106bc33ae29119e'
+            apiKey='xydsCEs++yYYKLgIiuxAArSs2qV5MGP/sSwEu/E4fcF7xhAjTCwCjqDi'
+            apiSecret='eyJpdiI6IkNVQ0JsS2JQSjRRVlNFVHl4WTVhOFE9PSIsInZhbHVlIjoiTVI3OCtxdCtRZnYvR29ockhYMFRpRlY3aFpsTnhXUmRpU1VTSXpIdnJ4VUd3cXVhQThDZjBIckJIamp5RnBqemdOT3dHeStQSFIwT0gzZEtQV3MvWm5LelJhRFRINDdYK3FZMGJXL2RQTWhLWFFlUm5PV3NJUkJ1Rk83Y2RVMDUiLCJtYWMiOiI5NTk5OGJjOWVjMTJkNjQ5YTI0NmFmODk3NzFkNzliZDk4YmUxMGNmMmQxYjNlZWI1ZjMzZGI5ZThhOWQxN2E1IiwidGFnIjoiIn0'
         />
     </React.StrictMode>,
 )
